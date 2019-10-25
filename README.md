@@ -1,0 +1,3 @@
+# learning_log
+Basic 'Learning Log' Django project using bootstrap3...
+This a basic online application for taking notes and saving them online
